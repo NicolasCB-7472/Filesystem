@@ -1,0 +1,14 @@
+createfile nom.txt
+createfile archivo1.txt
+cant
+createfile nom5.txt
+createfile videos.txt
+createfile recetas.txt
+dir
+salir
+
+	if((strcmp(parametro, "/S")==0) || (strcmp(parametro, "/s")==0)){
+		Ret=NO_IMPLEMENTADA;
+	}
+	else{
+		//imprimir_path(s->actual);
